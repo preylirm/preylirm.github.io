@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://preylirm.github.io/sitemap.html.gz
+Sitemap: https://preylirm.github.io/app/sitemap.html.gz
+Sitemap: https://preylirm.github.io/assets/sitemap.html.gz
+Sitemap: https://preylirm.github.io/css/sitemap.html.gz
+Sitemap: https://preylirm.github.io/data/sitemap.html.gz
+Sitemap: https://preylirm.github.io/includes/sitemap.html.gz
+Sitemap: https://preylirm.github.io/item/sitemap.html.gz
+Sitemap: https://preylirm.github.io/src/sitemap.html.gz
